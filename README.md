@@ -2,7 +2,7 @@
 <h3 align="center">Un chico de 16 años al que le encanta programar</h3>  
 <br/>  
 
-- ⚡ Soy Jefe de Desarrollo en [Voltyum Network](https://voltyum.net)  
+- ⚡ Desarrollador y SysAdmin en [Voltyum Network](https://voltyum.net)  
   
 
 - 🔭 Trabajo como desarrollador en [VirtualHit Network](https://virtualhit.es/)  
