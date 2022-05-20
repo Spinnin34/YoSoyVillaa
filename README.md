@@ -48,3 +48,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yosoyvillaa&show_icons=true&count_private=true&hide_border=true&locale=es&theme=dracula " align="center" /></div>  
 
 <br/>  
+
+## ¿Me das un abrazo? 😊
+<center>
+<a href="http://huggle.jdf2.org/hug/YoSoyVillaa">
+     <img src="http://huggle.jdf2.org/sig/YoSoyVillaa.png">
+</a>
+</center>
