@@ -5,7 +5,7 @@
 - ⚡ Desarrollador y SysAdmin en [Voltyum Network](https://voltyum.net)  
   
 
-- 🔭 Trabajo como desarrollador en [VirtualHit Network](https://virtualhit.es/)  
+- 🔭 Desarrollador en [VirtualHit Network](https://virtualhit.es/)  
   
 
 - ❓ Estoy aprendiendo Java y las APIs que tienen que ver con Minecraft (Spigot, BungeeCord, Velocity, etc)  
