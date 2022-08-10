@@ -5,7 +5,7 @@
 - ⚡ Developer & SysAdmin at [Voltyum Network](https://voltyum.net)  
   
 
-- 🔭 Developer at [VirtualHit Network](https://virtualhit.es/)  
+- 🔭 Developer at [VirtualHit Network](https://virtualhit.es/) & [VeltusMC Network](https://discord.veltusmc.com/)
   
 
 - ❓ I'm currently learning Java and Minecraft related APIs (Spigot, BungeeCord, Velocity, etc)
