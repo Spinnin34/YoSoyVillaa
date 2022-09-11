@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A 16 years old guy that loves programming</h3>  
 <br/>  
-
-- ⚡ Developer & SysAdmin at [Voltyum Network](https://voltyum.net)  
   
 
 - 🔭 Developer at [VirtualHit Network](https://virtualhit.es/) & [VeltusMC Network](https://discord.veltusmc.com/)
@@ -45,7 +43,7 @@
 
 
 ## Statistics
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yosoyvillaa&show_icons=true&count_private=true&hide_border=true&locale=es&theme=dracula " align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yosoyvillaa&show_icons=true&count_private=true&hide_border=true&locale=es&theme=dracula" align="center" /></div>  
 
 <br/>  
 
