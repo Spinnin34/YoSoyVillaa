@@ -3,10 +3,10 @@
 <br/>  
   
 
-- 🔭 Developer at [VirtualHit Network](https://virtualhit.es/) & [VeltusMC Network](https://discord.veltusmc.com/)
+- 🔭 Developer at [HyrexStudios](https://twitter.com/HyrexStudios)
   
 
-- ❓ I'm currently learning Java and Minecraft related APIs (Spigot, BungeeCord, Velocity, etc)
+- ❓ I'm currently learning Java & Kotlin and Minecraft related APIs (Spigot, PaperMC, Velocity, etc)
   
 
 - ✨ I like cats
