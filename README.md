@@ -3,6 +3,9 @@
 <br/>  
   
 
+- 👑 Owner of [Voltyum Network](https://voltyum.net)
+  
+
 - 🔭 Developer at [HyrexStudios](https://twitter.com/HyrexStudios)
   
 
