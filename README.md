@@ -2,10 +2,6 @@
 <h3 align="center">A 17 years old guy that loves programming</h3>  
 <br/>  
   
-
-- 👑 Owner of [Voltyum Network](https://voltyum.net)
-  
-
 - 🔭 Developer at [HyrexStudios](https://twitter.com/HyrexStudios)
   
 
